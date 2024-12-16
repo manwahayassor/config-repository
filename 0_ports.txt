@@ -1,0 +1,16 @@
+8888 gatewayservice
+9999 Configservice
+8081 WaterRessourceService
+8082 WaterActorService
+8083 WaterRessourceManagementService
+8084 WaterTechService
+8085 WaterTechManagementService
+8086 SecurityService
+8087 FileStorageService
+8088 ClimatForcastService
+8089 LandService
+8090 EventService
+8091 ContactBookService
+8092 LocationService
+8093 GlobalKpiService
+8094 EmailingService
