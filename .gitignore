@@ -1,5 +1,6 @@
 *
 !.gitignore
+!application.*
 !gateway-*.properties
 !water-actor-*.properties
 !water-management-*.properties
