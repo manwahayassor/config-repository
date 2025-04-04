@@ -2,6 +2,7 @@
 !.gitignore
 !application.*
 !gateway-*.properties
+!contact-book-*.properties
 !water-actor-*.properties
 !water-management-*.properties
 !water-technology-*.properties
