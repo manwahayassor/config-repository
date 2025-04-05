@@ -1,6 +1,6 @@
 *
 !.gitignore
-!application.*
+!application*
 !gateway-*.properties
 !contact-book-*.properties
 !water-actor-*.properties
